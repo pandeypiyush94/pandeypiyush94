@@ -32,7 +32,7 @@
 <code><img height="36" src ="https://image.flaticon.com/icons/svg/888/888839.svg" /></code>
 <code><img height="36" src ="https://image.flaticon.com/icons/svg/919/919854.svg" /></code>
 <code><img height="36" src ="https://img.icons8.com/color/48/000000/kotlin.png" /></code>
-<code><img height="36" src ="https://img.icons8.com/color/48/000000/firebase.png" /></code>
+<code><img height="36" src ="https://miro.medium.com/max/300/1*y98kF16FA8wnZvQ9JdNNWg.png" /></code>
 <code><img height="36" src ="https://img.icons8.com/color/48/000000/firebase.png" /></code>
 
 <br/>
