@@ -11,6 +11,9 @@
 <a href="https://github.com/pandeypiyush94">
   <img align="left" alt="Piyush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://play.google.com/store/apps/dev?id=6553077477686872610">
+  <img align="left" alt="Piyush's Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />
+</a>
 
 <br/>
 <br/>
