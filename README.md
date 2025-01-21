@@ -1,6 +1,6 @@
 # Hi there! ✨
 
-Welcome to my GitHub profile! I'm **Piyush Kumar Pandey**, a passionate **Android Developer** with over 8+ years of professional experience building delightful mobile applications. My journey in the tech world revolves around crafting seamless user experiences and writing efficient, scalable code.
+I'm **Piyush Kumar Pandey**, a passionate **Android Developer** with over 8+ years of professional experience building delightful mobile applications. My journey in the tech world revolves around crafting seamless user experiences and writing efficient, scalable code.
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm **Piyush Kumar Pandey**, a passionate **Androi
 ---
 
 ## 🌐 What I’m Currently Working On
-I’m diving deeper into modern Android development practices, experimenting with **Compose Multiplatform** and enhancing cross-platform app development with **Kotlin Multiplatform**. 
+I’m diving deeper into Modern Android Development practices, experimenting with **Compose Multiplatform** and enhancing cross-platform app development with **Kotlin Multiplatform**. 
 
 ---
 
@@ -44,10 +44,13 @@ I’m diving deeper into modern Android development practices, experimenting wit
 
 ## 🌟 Featured Projects
 Here are some of my notable works:
-- **Spare8**: A Gold Investment App currently under development to revolutionize how users manage their gold investments.
-- **PAYO**: A Fintech solution built to manage inventory in retail shops, enabling shop owners to maintain stock effortlessly and improve their business efficiency.
+- **MyGlamm**: A renowned Ecommerce App for Beauty Products – Available in Play Store having more than 1 Million downloads.
+- **Checkout51**: A Cashback Provider App on Groceries & Gas Shopping. – Available in Play Store having more than 10 Million downloads
+- **FaceOpen**: A Facial Recognition App Using Tensor Flow & Camera Frames.
+- **F2O Reporting**: An Offline-First Apps that store data locally and sync with the server when an internet connection is available.
+- **Live Train Alarm**: Location Based Alarm App for Railway Stations.
 
-(Check back soon for more updates!)
+(and many more... Check back soon for more updates!)
 
 ---
 
@@ -65,8 +68,8 @@ He/Him
 ---
 
 ## ⚡ Fun Fact
-I’m a huge fan of **minimalist UI design** and love exploring tech trends. Fun bonus: I can binge-watch development tutorials for hours without getting bored!
+I’m a **tech enthusiast** and love exploring any tech updates. Fun bonus: I'm in love with **CamelCasing**
 
 ---
 
-Thanks for stopping by! Let’s build something amazing together! 💡
+Thanks for joining! Let's collaborate and build something amazing! 💡
