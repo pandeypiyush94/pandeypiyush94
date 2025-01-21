@@ -1,6 +1,6 @@
 # Hi there! ✨
 
-I'm **Piyush Kumar Pandey**, a passionate **Android Developer** with over 8+ years of professional experience building delightful mobile applications. My journey in the tech world revolves around crafting seamless user experiences and writing efficient, scalable code.
+I'm **Piyush Kumar Pandey**, I write code for Android Apps To get Paid & Sometimes to Scratch My Own Itches. Having a 8+ Years of Experience Developing Native as well as Hybrid Apps.
 
 ---
 
