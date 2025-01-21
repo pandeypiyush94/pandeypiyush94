@@ -1,68 +1,72 @@
-### Hey Guys 👋, Piyush Here!
+# Hi there! ✨
 
-![](https://komarev.com/ghpvc/?username=pandeypiyush94)
+Welcome to my GitHub profile! I'm **Piyush Kumar Pandey**, a passionate **Android Developer** with over 8+ years of professional experience building delightful mobile applications. My journey in the tech world revolves around crafting seamless user experiences and writing efficient, scalable code.
 
-<a href="https://twitter.com/PandeyPiyushk">
-  <img align="left" alt="Piyush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/piyush-pandey-7755b9121/">
-  <img align="left" alt="Piyush's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/pandeypiyush94">
-  <img align="left" alt="Piyush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://play.google.com/store/apps/dev?id=6553077477686872610">
-  <img align="left" alt="Piyush's Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />
-</a>
+---
 
-<br/>
-<br/>
+## 🔧 Tech Stack & Skills
+- **Programming Languages:** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- **Frameworks & Libraries:** ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square&logo=kotlin&logoColor=white)
+- **Tools:** ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+- **Testing & CI/CD:** ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square)
+- **Other Skills:** Material Design, Dependency Injection (Dagger/Hilt), Room Database, Clean Architecture , SOLID , MVVM , MVI etc.
 
-- 🔭 I’m currently working on an [Android BLe](https://developer.android.com/guide/topics/connectivity/bluetooth-le) App
-- 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- 💬 Ask me about any Programming or Android Dev Related Stuff.
-- ⚡ Fun Fact: I Am In Love With Camel Casing ❤️.
+---
 
-<br/>
+## 🌐 What I’m Currently Working On
+I’m diving deeper into modern Android development practices, experimenting with **Compose Multiplatform** and enhancing cross-platform app development with **Kotlin Multiplatform**. 
 
-[![Twitter: PandeyPiyushk](https://img.shields.io/twitter/follow/PandeyPiyushk?style=social)](https://twitter.com/PandeyPiyushk)
-[![GitHub pandeypiyush94](https://img.shields.io/github/followers/pandeypiyush94?label=follow&style=social)](https://github.com/pandeypiyush94)
+---
 
-<br/>
+## 🌱 I’m Currently Learning
+- Advanced Compose Multiplatform patterns
+- Optimizing Kotlin Multiplatform for large-scale projects
 
-**Languages and Tools:**  
+---
 
-<code><img height="36" src ="https://image.flaticon.com/icons/svg/888/888839.svg" /></code>
-<code><img height="36" src ="https://image.flaticon.com/icons/svg/919/919854.svg" /></code>
-<code><img height="36" src ="https://img.icons8.com/color/48/000000/kotlin.png" /></code>
-<code><img height="36" src ="https://miro.medium.com/max/300/1*y98kF16FA8wnZvQ9JdNNWg.png" /></code>
-<code><img height="36" src ="https://img.icons8.com/color/48/000000/firebase.png" /></code>
+## 👯 I’m Looking to Collaborate On
+- Open-source Android libraries and tools
+- Projects leveraging Kotlin Multiplatform for innovative solutions
 
-<br/>
+---
 
-<a href="https://github.com/pandeypiyush94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeypiyush94&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/pandeypiyush94">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeypiyush94&show_icons=true&theme=dracula&line_height=27" alt="Piyush's Github Stats"/>
-</a>
+## 🤔 I’m Looking for Help With
+- Exploring efficient cross-platform testing strategies
+- Discovering best practices for Compose Multiplatform apps
 
-<a href="https://github.com/pandeypiyush94/RVKit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pandeypiyush94&repo=RVKit&theme=dark" />
-</a>
-<a href="https://github.com/pandeypiyush94/Have-ToDo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pandeypiyush94&repo=Have-ToDo&theme=dark" />
-</a>
-<a href="https://github.com/pandeypiyush94/Voice-Recorder">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pandeypiyush94&repo=Voice-Recorder&theme=dark" />
-</a>
+---
 
-<a href="https://github.com/pandeypiyush94/Breaking-Bad">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pandeypiyush94&repo=Breaking-Bad&theme=dark" />
-</a>
+## 💬 Ask Me About
+- Modern Android development techniques
+- Getting started with Kotlin Multiplatform and Compose Multiplatform
 
-<div align="center">
+---
 
-### Have a Great Day ❤️!
+## 🌟 Featured Projects
+Here are some of my notable works:
+- **Spare8**: A Gold Investment App currently under development to revolutionize how users manage their gold investments.
+- **PAYO**: A Fintech solution built to manage inventory in retail shops, enabling shop owners to maintain stock effortlessly and improve their business efficiency.
 
-</div>
+(Check back soon for more updates!)
+
+---
+
+## 🙋‍♂️ Let’s Connect
+- **Email:** [pandeypiyush94@gmail.com](mailto:pandeypiyush94@gmail.com)
+- **LinkedIn:** [Piyush Kumar Pandey](https://www.linkedin.com/in/piyush-pandey-7755b9121/)
+ 
+Feel free to reach out for collaborations, questions, or just to say hi! 
+
+---
+
+## 😄 Pronouns
+He/Him
+
+---
+
+## ⚡ Fun Fact
+I’m a huge fan of **minimalist UI design** and love exploring tech trends. Fun bonus: I can binge-watch development tutorials for hours without getting bored!
+
+---
+
+Thanks for stopping by! Let’s build something amazing together! 💡
