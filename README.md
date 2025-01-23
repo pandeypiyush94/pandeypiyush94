@@ -19,26 +19,19 @@ I’m diving deeper into Modern Android Development practices, experimenting wit
 ---
 
 ## 🌱 I’m Currently Learning
-- Advanced Compose Multiplatform patterns
-- Optimizing Kotlin Multiplatform for large-scale projects
-
----
-
-## 👯 I’m Looking to Collaborate On
-- Open-source Android libraries and tools
-- Projects leveraging Kotlin Multiplatform for innovative solutions
-
+- Advanced Jetpack Compose Concepts
+- In Depth Kotlin Multiplatform
 ---
 
 ## 🤔 I’m Looking for Help With
-- Exploring efficient cross-platform testing strategies
-- Discovering best practices for Compose Multiplatform apps
+- Exploring efficient cross-platform development using KMM
+- Discovering best practices for Android Concepts
 
 ---
 
 ## 💬 Ask Me About
 - Modern Android development techniques
-- Getting started with Kotlin Multiplatform and Compose Multiplatform
+- Getting started with Compose & KMM
 
 ---
 
