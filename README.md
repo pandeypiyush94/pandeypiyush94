@@ -55,11 +55,6 @@ Feel free to reach out for collaborations, questions, or just to say hi!
 
 ---
 
-## 😄 Pronouns
-He/Him
-
----
-
 ## ⚡ Fun Fact
 I’m a **tech enthusiast** and love exploring any tech updates. Fun bonus: I'm in love with **CamelCasing**
 
